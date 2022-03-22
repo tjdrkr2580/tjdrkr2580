@@ -1,8 +1,14 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=35&center=true&vCenter=true&width=404&height=300&lines=%E3%80%80%E3%80%80My+name+is+Kim+Tae+Hyun+%E3%80%80%E3%80%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=35&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80My+name+is+Kim+Tae+Hyun+%E3%80%80%E3%80%80)
+
+##
+<br>
   
 ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=radical)
+##
+<br>
+  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true)](https://github.com/tjdrkr2580)
 
 
@@ -23,5 +29,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdrkr2580&count_bg=%232BE0E9&title_bg=%23787171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 😁 Content 😁
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@tjdrkr2580) 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdrkr2580)](https://velog.io/@tjdrkr2580) 
 </div>
