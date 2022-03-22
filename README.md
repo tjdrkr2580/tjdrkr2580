@@ -1,4 +1,4 @@
-## Hello! My name is Kim Tae Hyun 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=KIMTAEHYUN#%20render&fontSize=60)
 ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=radical)
 
 ## <b>🛠 Now Tech Stack 🛠</b></h3>
