@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=KIMTAEHYUN#%20render&fontSize=60)
 ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=radical)
 
-## <b>🛠 Now Tech Stack 🛠</b></h3>
+## <b>💻 사용 언어 💻</b></h3>
 </br>
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"></p>
 
-## Tools 
+## ⛏️ 개발도구 ⛏️
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
