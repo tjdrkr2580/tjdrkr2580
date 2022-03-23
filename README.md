@@ -3,14 +3,18 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=35&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80My+name+is+Kim+Tae+Hyun+%E3%80%80%E3%80%80)
 <br>
   
-![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=radical)
+![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=tokyonight)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdrkr2580)](https://solved.ac/tjdrkr2580/)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdrkr2580&layout=compact)](https://github.com/tjdrkr2580/github-readme-stats)
 ##
 <br>
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true)](https://github.com/tjdrkr2580)
 
 
-## ⛏️ I USED ~ ⛏️
+## ⛏️ I used ~ ⛏️
 </br>
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
