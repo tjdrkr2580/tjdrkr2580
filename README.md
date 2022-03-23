@@ -1,8 +1,6 @@
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=35&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80My+name+is+Kim+Tae+Hyun+%E3%80%80%E3%80%80)
-
-##
 <br>
   
 ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=radical)
@@ -12,7 +10,7 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true)](https://github.com/tjdrkr2580)
 
 
-## ⛏️ 개발환경 ⛏️
+## ⛏️ I USED ~ ⛏️
 </br>
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
