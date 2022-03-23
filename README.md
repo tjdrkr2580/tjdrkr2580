@@ -25,9 +25,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 😊 Views 😊
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdrkr2580&count_bg=%232BE0E9&title_bg=%23787171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 😁 Content 😁
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdrkr2580)](https://velog.io/@tjdrkr2580) 
 </div>
