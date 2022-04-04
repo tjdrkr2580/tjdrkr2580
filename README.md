@@ -28,5 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 😁 Content 😁
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdrkr2580)](https://velog.io/@tjdrkr2580) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdrkr2580)](https://velog.io/@tjdrkr2580)<br>
+
+## 🤗 Another.. 🤗
+[![](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white)](https://programmers.co.kr/pr/tjdrkr2580_9196)<br>
 </div>
