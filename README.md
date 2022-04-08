@@ -14,7 +14,7 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true)](https://github.com/tjdrkr2580)
 
 
-## ⛏️ I used ~ ⛏️
+## ⛏️ I used ⛏️
 </br>
 <p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -30,6 +30,6 @@
 ## 😁 Content 😁
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdrkr2580)](https://velog.io/@tjdrkr2580)<br>
 
-## 🤗 Another.. 🤗
+## 🤗 Another 🤗
 [![](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white)](https://programmers.co.kr/pr/tjdrkr2580_9196)<br>
 </div>
