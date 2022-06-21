@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=35&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80My+name+is+Kim+Tae+Hyun+%E3%80%80%E3%80%80) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Kim+Tae+Hyun+%E3%80%80%E3%80%80) 
 <br>
   
 ![Wonsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=tokyonight)
