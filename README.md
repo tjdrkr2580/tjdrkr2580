@@ -3,6 +3,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Kim+Tae+Hyun+%E3%80%80%E3%80%80) 
   
 </h1>
+<
 
 <h3 align="center">옆 사람을 도울 수 있는 개발자가 되고 싶어요 😁</h3>
 
