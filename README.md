@@ -3,7 +3,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Kim+Tae+Hyun+%E3%80%80%E3%80%80) 
   
 </h1>
-<
 
 <h3 align="center">옆 사람을 도울 수 있는 개발자가 되고 싶어요 😁</h3>
 
@@ -38,13 +37,13 @@ greeting();
   </a>
 </div>
 
-<!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdrkr2580&color=dark)](https://github.com/tjdrkr2580/velog-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@tjdrkr2580) 
 </div>
--->
+
 
 ##
 <br/>
