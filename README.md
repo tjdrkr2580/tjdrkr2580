@@ -41,8 +41,11 @@ greeting();
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdrkr2580&color=dark)](https://github.com/tjdrkr2580/velog-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@tjdrkr2580) 
 </div>
+
+<p align="center">
+<a href="https://opgc.me/#/users/tjdrkr2580" target="_blank"><img src="https://api.opgc.me/githubs/users/tjdrkr2580/tag/?theme=dracula" /></a>
+</p>
 
 
 ##
