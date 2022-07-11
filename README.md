@@ -43,10 +43,6 @@ greeting();
   
 </div>
 
-<p align="center">
-<a href="https://opgc.me/#/users/tjdrkr2580" target="_blank"><img src="https://api.opgc.me/githubs/users/tjdrkr2580/tag/?theme=dracula" /></a>
-</p>
-
 
 ##
 <br/>
