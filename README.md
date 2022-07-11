@@ -39,7 +39,7 @@ greeting();
 
 <div align="center">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdrkr2580&color=dark)](velog.io/@tjdrkr2580)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdrkr2580&color=dark)](https://velog.io/@tjdrkr2580)
   
 </div>
 
