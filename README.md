@@ -4,7 +4,12 @@
   
 </h1>
 
-<h3 align="center">옆 사람을 도울 수 있는 개발자가 되고 싶어요 😁</h3>
+<h3 align="center">옆 사람을 도울 수 있는 개발자가 될 때까지 달리겠습니다 😁 <br><br>
+  
+  
+[김태현의 일상](https://scented-pie-df2.notion.site/a58e7dc10df443fb9c16824d82e58967?v=535437d33c824f5296aa17c592fdaf2e) |
+[김태현](https://scented-pie-df2.notion.site/Kim-Tae-Hyun-4ce30c75290f450da94a7ac7590e8c78)</h3>
+
 
 <br>
 
