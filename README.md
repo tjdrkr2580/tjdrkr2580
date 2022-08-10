@@ -59,4 +59,4 @@ greeting();
 </p>
 <br>
 
-[![tjdrkr2580's graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+![tjdrkr2580's graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
