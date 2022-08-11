@@ -34,7 +34,7 @@
 
 ```javascript
 const greeting = () => {
-console.log("안녕하세요, 프론트엔드 개발자를 희망하는 김태현이라고 합니다!");
+console.log("안녕하세요, 프론트엔드 개발자를 희망하는 김태현이라고 합니다.");
 }
 greeting();
 ```
