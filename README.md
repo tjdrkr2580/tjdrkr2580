@@ -8,7 +8,6 @@
   
   
 [KimTaeHyun’s Story](https://tjdrkr2580.notion.site/a58e7dc10df443fb9c16824d82e58967?v=535437d33c824f5296aa17c592fdaf2e) |
-[김태현](https://tjdrkr2580.notion.site/Kim-Tae-Hyun-4ce30c75290f450da94a7ac7590e8c78)</h3>
 
 
 <br>
