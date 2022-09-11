@@ -7,7 +7,7 @@
 <h3 align="center">옆 사람을 도울 수 있는 개발자가 될 때까지 달리겠습니다 😁 <br><br>
   
   
-[KimTaeHyun’s Story](https://tjdrkr2580.notion.site/a58e7dc10df443fb9c16824d82e58967?v=535437d33c824f5296aa17c592fdaf2e)
+[개발 블로그](https://kimmarigold.medium.com/)
 
 
 <br>
