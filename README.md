@@ -1,13 +1,7 @@
-<h1 align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=00FFFF&size=45&center=true&vCenter=true&width=404&height=200&lines=%E3%80%80%E3%80%80Kim+Tae+Hyun+%E3%80%80%E3%80%80) 
-  
-</h1>
-
 <h3 align="center">옆 사람을 도울 수 있는 개발자가 될 때까지 달리겠습니다 😁 <br><br>
   
   
-[개발 블로그](https://kimmarigold.medium.com/)
+[개발 블로그 | Medium](https://kimmarigold.medium.com/)
 
 
 <br>
@@ -40,19 +34,3 @@ console.log("안녕하세요, 프론트엔드 개발자를 희망하는 김태�
 }
 greeting();
 ```
-
-<div align="center">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-
-##
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tjdrkr2580&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tjdrkr2580&theme=gruvbox&hide_border=true" />
-</p>
-<br>
-
-![tjdrkr2580's graph](https://activity-graph.herokuapp.com/graph?username=tjdrkr2580&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
