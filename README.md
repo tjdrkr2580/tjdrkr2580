@@ -1,4 +1,4 @@
-<h3 align="center">옆 사람을 도울 수 있는 개발자가 되길 희망합니다. 😁 <br><br>
+<h3 align="center">사람들의 일상생활을 바꾸는데 일조하고 싶습니다. 😁 <br><br>
   
   
 [개발 블로그 | Medium](https://kimmarigold.medium.com/)
