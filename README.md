@@ -1,7 +1,7 @@
 <h3 align="center">사람들의 일상생활을 바꾸는데 일조하고 싶습니다. 😁 <br><br>
   
   
-[Marigold](https://marigold5359.tistory.com/)
+<!-- [Marigold](https://marigold5359.tistory.com/) -->
 
 
 <br>
