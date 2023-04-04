@@ -1,7 +1,7 @@
 <div align=center> 
 
 ```js
- console.log("Hello");
+ console.log("React TypeScript AWS Redux");
 ```
  
 </div>
