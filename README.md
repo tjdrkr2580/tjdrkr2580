@@ -1,7 +1,7 @@
 <div align=center> 
 
 ```js
- console.log("React Next TypeScript SCSS Redux Recoil AWS");
+ console.log("프론트엔드 개발자, 김태현");
 ```
  
 </div>
