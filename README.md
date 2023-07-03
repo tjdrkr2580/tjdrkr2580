@@ -1,7 +1,7 @@
 <div align=center> 
 
 ```js
- console.log("프론트엔드 개발자, 김태현");
+ console.log("20살 개발자, 김태현");
 ```
  
 </div>
