@@ -1,7 +1,7 @@
 <div align=center> 
 
 ```js
- console.log("새로운 것을 기대하는 개발자, 김태현");
+ console.log("완벽하게는 아니라도 다하고 싶어요 :)");
 ```
  
 </div>
